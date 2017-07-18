@@ -1,9 +1,3 @@
-/*
- * File:   Matrix.cpp
- * Author: maciek
- *
- * Created on 29 październik 2013, 17:16
- */
 
 #include <algorithm>
 #include <cctype>
